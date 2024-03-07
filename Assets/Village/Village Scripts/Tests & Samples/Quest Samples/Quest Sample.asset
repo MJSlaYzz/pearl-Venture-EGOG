@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f54017d419f363344a2a26fc4a434960, type: 3}
+  m_Name: Quest Sample
+  m_EditorClassIdentifier: 
+  questName: Find the mushrooms!
+  questDescription: 'Collect 2 red mushrooms & 2 blue mushrooms for Rashid! '
+  endPointNPC: {fileID: 0}
+  objectives:
+  - collectable: {fileID: 11400000, guid: c146ac1915c5cbf48b3c57fd0e612c65, type: 2}
+    requiredAmount: 2
+  - collectable: {fileID: 11400000, guid: ec24d6f2d6d98dc45a28fae9396a4701, type: 2}
+    requiredAmount: 2
+  isInitialized: 1

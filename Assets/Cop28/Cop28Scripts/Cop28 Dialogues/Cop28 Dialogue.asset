@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb0c06a1361e3341908f82f3d55d38c, type: 3}
+  m_Name: Cop28 Dialogue
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"The old fisherman stood on the shore of Fujairah, staring at a wide
+      expanse of sea, its surface sparkling under the morning sun."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"His conscience ached as he remembered the countless times, he had
+      plundered its depths and contributed to the destruction of its picturesque
+      nature, due to greed and thirst for profit."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\"In his youth, he was a fisherman full of energy and ambition, keen
+      to reap the bounties of the sea by all possible means. He cast his nets everywhere,
+      pulling in everything in his path, careless of the destruction he caused. But
+      he was not the only one who did this. \r\nMany fishermen were blinded by the
+      pursuit of quick wealth.\""
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"They all failed to expect the consequences of their actions."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"Which ensued pollution of what was once a beautiful part of their
+      beloved country and their main source of livelihood."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"Over the years, fish population has declined, coral reefs have died,
+      and they have become barren lands."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"He has seen most marine life migrate from the area and the waters
+      change color, under the pressure of relentless overfishing."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"While he was standing there deeply absorbed in thought, he noticed
+      a young man approaching the fishermen and reprimanding them firmly for what
+      their actions had led to. The young man was asking them to help correct some
+      of this damage, but no one paid any attention to him."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"The old fisherman recognized the passion and firmness in the young
+      man''s eyes."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"After much thought and hesitation, he approached the young man, his
+      heart beating with a mixture of guilt and hope."'
+    characterEmotion: 0
+    isComment: 1
+    isAction: 0
+  - character: {fileID: 11400000, guid: 9ce278a593ce3cd40ac75984778e2ab5, type: 2}
+    charText: Young man!
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: '"The young man looked up, his eyes meeting the old fishermen with
+      a hint of curiosity"'
+    characterEmotion: 4
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: db63928d0c9166149adb0a9e2d832e88, type: 2}
+    charText: Yes sir, how can I help you?
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 9ce278a593ce3cd40ac75984778e2ab5, type: 2}
+    charText: I have something to tell you, but first what is your name?
+    characterEmotion: 4
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: db63928d0c9166149adb0a9e2d832e88, type: 2}
+    charText: My name is Ammar.
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 9ce278a593ce3cd40ac75984778e2ab5, type: 2}
+    charText: And I am Rasheed.
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: Nice to meet you sir, what did you want to tell me?
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: I have spent my life fishing in the sea, and I have seen the damage
+      that we have done. I have been a part of the problem, and I am filled with
+      regret.
+    characterEmotion: 5
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: I'm listening.
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: I want to help, but I am too old to make a difference on my own. I
+      need your help, your energy and your passion.
+    characterEmotion: 5
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\u201CAmmar smiled, a glimmer of hope flickering in his eyes, then
+      said:\u201D"
+    characterEmotion: 0
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: But how can you assist me?
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: "Since I was part of the problem, I want to be part of the solution.\r\nI
+      know the corrupt, devious methods some of these fishermen use.  \r\n"
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'I have accumulated extensive knowledge over the years. '
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: I am familiar with the areas that have been affected the most and the
+      reasons behind this damage.
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: "Additionally, I can provide you with guidance on how to rectify the
+      situation.\r"
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: 'That''s great, but before we can solve them, we must first identify
+      the issues! '
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: Exactly, there are three main factors that cause significant harm to
+      our marine environment:"
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'First: The depletion of fertilized lobsters and crabs due to overfishing
+      has a negative impact on their population and disrupt the food chain, ultimately
+      harming the overall marine ecosystem.'
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'Second: the ghost nets that harm the seagrass beds, disrupting their
+      growth and reducing their ability to provide shelter and food for a variety
+      of marine organisms.'
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'Third: Disposing of plastic waste in the seas causes some creatures,
+      such as sea turtles, to suffocate when they eat them, in addition to the many
+      problems caused by this waste.'
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: I had no idea there were so many problems. Some of these problems extend
+      beyond a few selfish fishermen, such as plastic pollution. Meeting you today
+      has made me truly thankful.
+    characterEmotion: 2
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: I can guide you to where you can find a small boat, give you precise
+      directions, and I can provide you with the required tools and teach you how
+      to use them.
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\u201CAmmar interrupts Rasheed in confusion.\u201D"
+    characterEmotion: 6
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: I thought you were going to accompany me!
+    characterEmotion: 2
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: I really wish I could, but my family depends on me, and if I join you
+      in those barren areas, I won't be able to catch any fish.
+    characterEmotion: 5
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: "Come on, think of something!\nWe can make a difference together. \nWe
+      can prove to everyone that it is not too late to save our sea."
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: Isn't there anything valuable we can find and sell out there?
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: Actually, there is one thing we might find that's worth selling.
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: What is it?
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: Pearls, of course! If you can gather some pearls while diving down
+      there, I would be more than happy to join you. They are worth more than fish
+      after all.
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\u201CAmmar glanced at Rasheed, a hint of sarcasm in his eyes, before
+      speaking up:\u201D"
+    characterEmotion: 1
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: I see that your greed hasn't faded.
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\u201CRasheed answered nervously:\u201D"
+    characterEmotion: 0
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: Oh, come on, don't be like this! I told you I have a family to take
+      care of.
+    characterEmotion: 4
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: 'Well, even if it stems from greed, at least you won''t be harming
+      the sea anymore. '
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: So, I agree, if that's the price to save the sea.
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: Alright, let's meet here tomorrow morning. I'll take you to a safer
+      area to teach you the basics.
+    characterEmotion: 0
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: What do you mean by safer? What's happening out there?
+    characterEmotion: 1
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: Don't worry about something that rarely happens, like shark attacks.
+    characterEmotion: 4
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\u201CAmmar's face turned pale when Rasheed mentioned the rare occurrence
+      of shark attacks.\u201D"
+    characterEmotion: 0
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: SH... SHA.... SHARKS!!!
+    characterEmotion: 3
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'Like I said, there are very few signs of aquatic life in those areas.
+      No need to worry. '
+    characterEmotion: 4
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: I'm suddenly not comfortable diving there anymore.
+    characterEmotion: 3
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'Come on, we already made a deal. And we''re doing this for a greater
+      cause. '
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: I swear, you only care about the pearls.
+    characterEmotion: 3
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: This is not true, and I am not willing to take all the pearls for myself!
+    characterEmotion: 4
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: 'We will distribute them equally between us to take care of our families.
+
+'
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 2453fe7e2269d044ea6125145e30a70d, type: 2}
+    charText: "Anyway, I'll see you here tomorrow morning. Get enough sleep tonight,
+      we have a long day ahead.\r"
+    characterEmotion: 6
+    isComment: 0
+    isAction: 0
+  - character: {fileID: 11400000, guid: 134b3048e233afe45aa69c367a55db9f, type: 2}
+    charText: "\u201CAs Ammar walked away, he muttered to himself:\u201D"
+    characterEmotion: 0
+    isComment: 1
+    isAction: 1
+  - character: {fileID: 11400000, guid: c79756529f00e5940bd3f221a66b82a5, type: 2}
+    charText: I don't even know if I can sleep tonight.
+    characterEmotion: 3
+    isComment: 0
+    isAction: 0

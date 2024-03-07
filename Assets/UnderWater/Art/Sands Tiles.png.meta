@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 814bb2424c158024d812d7b0f1e4fd25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4997922081708846909
+    second: Sands Tiles_0
+  - first:
+      213: -1117697299518608113
+    second: Sands Tiles_1
+  - first:
+      213: -5487584279633009074
+    second: Sands Tiles_2
+  - first:
+      213: -8692613358100529299
+    second: Sands Tiles_3
+  - first:
+      213: 2280664310193234197
+    second: Sands Tiles_4
+  - first:
+      213: -4051665612524826903
+    second: Sands Tiles_5
+  - first:
+      213: -7658204194623981566
+    second: Sands Tiles_6
+  - first:
+      213: 5220579475770184950
+    second: Sands Tiles_7
+  - first:
+      213: -4639867228086540799
+    second: Sands Tiles_8
+  - first:
+      213: -7919399105193432091
+    second: Sands Tiles_9
+  - first:
+      213: -7863406433295319329
+    second: Sands Tiles_10
+  - first:
+      213: 8885057581111367811
+    second: Sands Tiles_11
+  - first:
+      213: -5609957023367715957
+    second: Sands Tiles_12
+  - first:
+      213: 4461730193167405704
+    second: Sands Tiles_13
+  - first:
+      213: -4904448740588951886
+    second: Sands Tiles_14
+  - first:
+      213: -8061870782692091168
+    second: Sands Tiles_15
+  - first:
+      213: -3696093452610269626
+    second: Sands Tiles_16
+  - first:
+      213: 8001406623005544447
+    second: Sands Tiles_17
+  - first:
+      213: 8587643559421008194
+    second: Sands Tiles_18
+  - first:
+      213: -3590157682714848422
+    second: Sands Tiles_19
+  - first:
+      213: -5175760201736003113
+    second: Sands Tiles_20
+  - first:
+      213: -4785599661540012414
+    second: Sands Tiles_21
+  - first:
+      213: -559776387998330834
+    second: Sands Tiles_22
+  - first:
+      213: 7810602313104229818
+    second: Sands Tiles_23
+  - first:
+      213: -3602627492670397125
+    second: Sands Tiles_24
+  - first:
+      213: 3786079382616225456
+    second: Sands Tiles_25
+  - first:
+      213: -1438351475345166634
+    second: Sands Tiles_26
+  - first:
+      213: 8738283838096715333
+    second: Sands Tiles_27
+  - first:
+      213: -5131056584904525133
+    second: Sands Tiles_28
+  - first:
+      213: 5756752044152761884
+    second: Sands Tiles_29
+  - first:
+      213: -7837015269732194133
+    second: Sands Tiles_30
+  - first:
+      213: -2283762983149792149
+    second: Sands Tiles_31
+  - first:
+      213: 5580770929886029650
+    second: Sands Tiles_32
+  - first:
+      213: -1395389780534920365
+    second: Sands Tiles_33
+  - first:
+      213: 4483078267284913347
+    second: Sands Tiles_34
+  - first:
+      213: 6834088228078748026
+    second: Sands Tiles_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sands Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 312
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0d9a8c850d3aab0800000000000000
+      internalID: -4997922081708846909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da7c75a342d70f0800000000000000
+      internalID: -1117697299518608113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 312
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e4711c2f28d3b0800000000000000
+      internalID: -5487584279633009074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3a9cc432ad5780800000000000000
+      internalID: -8692613358100529299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 212
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511aafc4b1c86af10800000000000000
+      internalID: 2280664310193234197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eecac0979795c7c0800000000000000
+      internalID: -4051665612524826903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f7022cd798b590800000000000000
+      internalID: -7658204194623981566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41af69f59337840800000000000000
+      internalID: 5220579475770184950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ece0d651eb9fb0800000000000000
+      internalID: -4639867228086540799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb266cf874a81290800000000000000
+      internalID: -7919399105193432091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sands Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde39e2d2819fd290800000000000000
+      internalID: -7863406433295319329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

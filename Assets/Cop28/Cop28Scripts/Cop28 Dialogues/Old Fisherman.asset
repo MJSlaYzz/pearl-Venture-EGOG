@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24801ff7fa195cf45b25972ad6646691, type: 3}
+  m_Name: Old Fisherman
+  m_EditorClassIdentifier: 
+  characterName: 'Old Fisherman:'
+  emotionPortraits:
+    casual: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}
+    curious_questioning: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}
+    surprise: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}
+    fear_pale: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}
+    nervous: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}
+    upset_regretful: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}
+    excited: {fileID: -7766392558589649210, guid: d213eb10f0ddc774290c50de911dedda, type: 3}

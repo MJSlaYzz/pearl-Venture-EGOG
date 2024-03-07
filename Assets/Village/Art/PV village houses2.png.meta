@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 74692d85241fd7a40acf77ddb8e96193
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9139877301637066984
+    second: PV village houses2_0
+  - first:
+      213: -6598996046083861625
+    second: PV village houses2_1
+  - first:
+      213: 3517038056293498003
+    second: PV village houses2_2
+  - first:
+      213: 1180824018673589859
+    second: PV village houses2_3
+  - first:
+      213: -5154075587573377796
+    second: PV village houses2_4
+  - first:
+      213: 8058642009001373803
+    second: PV village houses2_5
+  - first:
+      213: -4283456281229120419
+    second: PV village houses2_6
+  - first:
+      213: 4081572323005417507
+    second: PV village houses2_7
+  - first:
+      213: 5941747528200880661
+    second: PV village houses2_8
+  - first:
+      213: 6771186643239361455
+    second: PV village houses2_9
+  - first:
+      213: 5782568561520662108
+    second: PV village houses2_10
+  - first:
+      213: -2942814573793299482
+    second: PV village houses2_11
+  - first:
+      213: -5438498093656866820
+    second: PV village houses2_12
+  - first:
+      213: 712178038302446628
+    second: PV village houses2_13
+  - first:
+      213: 4298941533489395053
+    second: PV village houses2_14
+  - first:
+      213: 4462701688228741979
+    second: PV village houses2_15
+  - first:
+      213: -4865284517715233120
+    second: PV village houses2_16
+  - first:
+      213: 830259129201911459
+    second: PV village houses2_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PV village houses2_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 727
+        width: 131
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f4441f402a82180800000000000000
+      internalID: -9139877301637066984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 727
+        width: 131
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d6fe1f08ab64a0800000000000000
+      internalID: -6598996046083861625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 727
+        width: 259
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c77e66a770fc030800000000000000
+      internalID: 3517038056293498003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 727
+        width: 227
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed94f4031236010800000000000000
+      internalID: 1180824018673589859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_4
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 632
+        width: 258
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41d218f8b0978b0800000000000000
+      internalID: -5154075587573377796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 632
+        width: 259
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60319ee53c06df60800000000000000
+      internalID: 8058642009001373803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_6
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 632
+        width: 259
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2c6af43b1e84c0800000000000000
+      internalID: -4283456281229120419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_7
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 679
+        width: 227
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328cdc51768a4a830800000000000000
+      internalID: 4081572323005417507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_8
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 771
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512087b65e3557250800000000000000
+      internalID: 5941747528200880661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 375
+        width: 131
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd622706618fd50800000000000000
+      internalID: 6771186643239361455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 375
+        width: 131
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d7c6287fcf3050800000000000000
+      internalID: 5782568561520662108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 375
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e33531acb50927d0800000000000000
+      internalID: -2942814573793299482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 375
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff71f75cc29684b0800000000000000
+      internalID: -5438498093656866820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_13
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 279
+        width: 258
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241add072a22e900800000000000000
+      internalID: 712178038302446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_14
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 279
+        width: 259
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65fec54c88e8ab30800000000000000
+      internalID: 4298941533489395053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_15
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 279
+        width: 259
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5309618a83beed30800000000000000
+      internalID: 4462701688228741979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_16
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 327
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6306e22890b7cb0800000000000000
+      internalID: -4865284517715233120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV village houses2_17
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 418
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ea93774ca58b00800000000000000
+      internalID: 830259129201911459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

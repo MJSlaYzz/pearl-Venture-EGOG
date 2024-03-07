@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8946c74dcf808f4c9b04efed2d7a0ec, type: 3}
+  m_Name: char Sample 2
+  m_EditorClassIdentifier: 
+  characterName: Rashid
+  emotionPortraits:
+    standard: {fileID: 21300000, guid: 214a6d66cded025409839d28a7619d09, type: 3}
+    happy: {fileID: 21300000, guid: e2419e927ec97b5499ac3f9bd82a3f8b, type: 3}
+    sad: {fileID: 21300000, guid: a6e612059789c5e4bb9d558925bc8d17, type: 3}
+    shocked: {fileID: 21300000, guid: 12f4cd2d59d91634fbcd61561c4f739d, type: 3}
+    angry: {fileID: 21300000, guid: 74e4f528ca644f24496116f4e057363a, type: 3}

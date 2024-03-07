@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - O2 Replenisher
+  - Checkpoint
+  - Checkpoint2
+  - Inventory
+  - GhostNet
+  - Trash
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Effects
+  - Minimap
+  - Wall
+  - Player Map Icon
+  - Background
+  - Arrow
+  - Hidden Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: not affected by lights
+    uniqueID: 3525608893
+    locked: 0
+  - name: affected by light front
+    uniqueID: 2959151625
+    locked: 0

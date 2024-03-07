@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d95e06fdd856e41a82648aff15f4ab, type: 3}
+  m_Name: Quest Dialogue Sample
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 8082a63f7022356448aa4324e10047e6, type: 2}
+    charText: 'Hello Ahmed! I''m troubled! May you help me out? '
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: e417daa082a5c76479136eb2487d95e5, type: 2}
+    charText: 'Hello Rashid! Of course! What is it? '
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 8082a63f7022356448aa4324e10047e6, type: 2}
+    charText: I've ran out of red and blue mushrooms! May you get me some?
+    characterEmotion: 1
+  quest: {fileID: 11400000, guid: 3e6c2cc9aa4b8314a86a86d7c34b3907, type: 2}
