@@ -94,7 +94,7 @@ public class MainMenu : MonoBehaviour
         }
         else
         {
-            Debug.Log("ther's no saved file");
+            Debug.Log("there's no saved file");
         }
     }
     public void UpdateWaterColor()

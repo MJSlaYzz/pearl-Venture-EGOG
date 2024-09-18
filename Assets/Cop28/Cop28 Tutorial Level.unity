@@ -46040,13 +46040,14 @@ RectTransform:
   m_LocalScale: {x: 0.5, y: 1, z: 1}
   m_Children:
   - {fileID: 1299781779}
+  - {fileID: 1271177325}
   m_Father: {fileID: 3958469287491432890}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -779, y: 76}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 230, y: -215.56}
+  m_SizeDelta: {x: 881.48, y: 110.33301}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1119470543
 GameObject:
@@ -50466,15 +50467,15 @@ RectTransform:
   m_GameObject: {fileID: 1271177324}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 1}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 3958469287491432890}
-  m_RootOrder: 15
+  m_Father: {fileID: 1110122065}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -571.36316, y: 287.09998}
-  m_SizeDelta: {x: 116.3413, y: 49.643}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -123.72638, y: 18.159943}
+  m_SizeDelta: {x: 116.34131, y: 49.643}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1271177326
 Animator:
@@ -50783,7 +50784,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 50, y: 233}
+  m_AnchoredPosition: {x: 332, y: -17.271973}
   m_SizeDelta: {x: 287.99, y: 34.544}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1303871745
@@ -77666,7 +77667,6 @@ RectTransform:
   - {fileID: 252492491}
   - {fileID: 1985914845}
   - {fileID: 1110122065}
-  - {fileID: 1271177325}
   - {fileID: 1558984839}
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -77693,7 +77693,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -78373,7 +78373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 336461295909833576, guid: 0b64f4f59d70ed74b8d1e294374a727a, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 336461295909833576, guid: 0b64f4f59d70ed74b8d1e294374a727a, type: 3}
       propertyPath: m_AnchorMax.x
